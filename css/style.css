@@ -111,7 +111,7 @@ ol {
 
 .section-title span {
 	font-size: 16px;
-	color: #f36100;
+	color: #E83539;
 	text-transform: uppercase;
 	font-weight: 700;
 }
@@ -160,7 +160,7 @@ ol {
 	font-size: 14px;
 	padding: 17px 30px 16px;
 	color: #ffffff;
-	background: #f36100;
+	background: #E83539;
 	line-height: normal;
 	letter-spacing: 1px;
 	text-transform: uppercase;
@@ -174,8 +174,8 @@ ol {
 }
 
 .primary-btn.btn-normal:hover {
-	background: #f36100;
-	border-color: #f36100;
+	background: #E83539;
+	border-color: #E83539;
 }
 
 /* Preloder */
@@ -377,7 +377,7 @@ ol {
 }
 
 .nav-menu ul li.active>a {
-	color: #f36100;
+	color: #E83539;
 }
 
 .nav-menu ul li.active>a:after {
@@ -385,7 +385,7 @@ ol {
 }
 
 .nav-menu ul li:hover>a {
-	color: #f36100;
+	color: #E83539;
 }
 
 .nav-menu ul li:hover>a:after {
@@ -418,7 +418,7 @@ ol {
 	top: 22px;
 	height: 1px;
 	width: 100%;
-	background: #f36100;
+	background: #E83539;
 	content: "";
 	-webkit-transform: rotate(-20deg);
 	-ms-transform: rotate(-20deg);
@@ -563,7 +563,7 @@ ol {
 }
 
 .hs-slider .hs-item .hi-text h1 strong {
-	color: #f36100;
+	color: #E83539;
 }
 
 .hs-slider .hs-item .hi-text .primary-btn {
@@ -587,7 +587,7 @@ ol {
 }
 
 .cs-item:hover span {
-	background: #f36100;
+	background: #E83539;
 	color: #ffffff;
 }
 
@@ -597,7 +597,7 @@ ol {
 	background: rgba(255, 255, 255, 0.1);
 	border-radius: 50%;
 	display: inline-block;
-	color: #f36100;
+	color: #E83539;
 	line-height: 90px;
 	text-align: center;
 	-webkit-transition: all 0.3s;
@@ -658,7 +658,7 @@ ol {
 }
 
 .class-item .ci-text span {
-	color: #f36100;
+	color: #E83539;
 	font-size: 12px;
 	text-transform: uppercase;
 	font-weight: 700;
